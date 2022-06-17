@@ -5,4 +5,4 @@ authors = ["Marc EYMARD <contact@marc-eymard.fr>"]
 edition = "2018"
 
 [dependencies]
-diesel = { version = "1.0.0", features = ["sqlite"] }
+diesel = { version = "1.4.6", features = ["sqlite"] }
